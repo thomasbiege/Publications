@@ -787,7 +787,7 @@
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   lang="" style='color:black'>Paper/Article</span></b><span lang=""
   style='color:black'>: Cyber Defense: Terminology, Frameworks and Standards -
-  Part 1 &amp; 1, </span><span lang="" style='font-size:10.5pt;font-family:
+  Part 1 &amp; 2, </span><span lang="" style='font-size:10.5pt;font-family:
   Roboto;color:black;background:#C5E0B3'><a
   href="https://cyber-defense-center.blogspot.com/2021/03/release-3-terminology-frameworks-and.html">https://cyber-defense-center.blogspot.com/2021/03/release-3-terminology-frameworks-and.html</a>
   <a
