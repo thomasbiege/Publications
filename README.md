@@ -128,8 +128,7 @@
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   lang="" style='color:black'>Vulnerability</span></b><span lang=""
   style='color:black'>: Patched wu-ftpd to make it the most secure FTP daemon at
-  this time. The software was even not vulnerable to “format string” bugs which
-  was unknown at this time.</span></p>
+  this time. The software was even not vulnerable to “format string” bugs, a bug category unknown at this time.</span></p>
   </td>
  </tr>
  <tr>
