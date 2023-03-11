@@ -51,8 +51,7 @@
   background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   lang="" style='color:black'>Tool</span></b><span lang="" style='color:black'>:
-  Proof-of-Concept UNIX backdoor / remote access trojan (RAT) with string
-  obfuscation, portable user-space process hiding, support for ICMP tunneling, https://github.com/vanhauser-thc/THC-Archive/
+  Proof-of-Concept UNIX backdoor / remote access trojan (RAT) with string obfuscation, portable user-space process hiding, support for ICMP tunneling, https://github.com/vanhauser-thc/THC-Archive/
   </span></p>
   </td>
  </tr>
@@ -284,8 +283,7 @@
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   lang="" style='color:black'>CVE-2004-0745</span></b><span lang=""
   style='color:black'>, shell meta character command execution vulnerability in
-  all versions of lha, <a
-  href="https://www.vuxml.org/freebsd/273cc1a3-0d6b-11d9-8a8a-000c41e2cdad.html">https://www.vuxml.org/freebsd/273cc1a3-0d6b-11d9-8a8a-000c41e2cdad.html</a>
+  all versions of lha, <a href="https://www.vuxml.org/freebsd/273cc1a3-0d6b-11d9-8a8a-000c41e2cdad.html">https://www.vuxml.org/freebsd/273cc1a3-0d6b-11d9-8a8a-000c41e2cdad.html</a>
   </span></p>
   </td>
  </tr>
@@ -378,9 +376,7 @@
   background:#C5E0B3;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   lang="" style='color:black'>Paper/Article</span></b><span lang=""
-  style='color:black'>: Analysis of a strong Pseudo Random Number</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span lang=""
-  style='color:black'>Generator by anatomizing Linux' Random Number Device</span></p>
+  style='color:black'>: Analysis of a strong Pseudo Random Number Generator by anatomizing Linux' Random Number Device</span></p>
   </td>
  </tr>
  <tr>
