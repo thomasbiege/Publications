@@ -859,7 +859,7 @@
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   lang="" style='color:black'>Hunt</span></b><span lang="" style='color:black'>:
   Report about hunting a cybergang, unpublished, report handed over to
-  law-eforcement </span></p>
+  law enforcement </span></p>
   </td>
  </tr>
  <tr>
