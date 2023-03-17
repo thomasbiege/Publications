@@ -74,7 +74,7 @@
   <td width=113 valign=top style='width:84.8pt;border:solid white 1.0pt;
   border-top:none;background:#70AD47;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
-  line-height:normal'><b><span lang="" style='color:white'>1998</span></b></p>
+  line-height:normal'><b><span lang="" style='color:white'>1997 / 1998</span></b></p>
   </td>
   <td width=478 valign=top style='width:358.15pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -719,6 +719,21 @@
   lang="" style='color:black'>Cited in/at</span></b><span lang=""
   style='color:black'>: Network Attack lnjection, <a
   href="https://www.yumpu.com/en/document/view/12966721/network-attack-injection-engenharia-informatica-e-tecnologias-da-">https://www.yumpu.com/en/document/view/12966721/network-attack-injection-engenharia-informatica-e-tecnologias-da-</a>
+  </span></p>
+  </td>
+ </tr> <tr>
+  <td width=113 valign=top style='width:84.8pt;border:solid white 1.0pt;
+  border-top:none;background:#70AD47;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+  line-height:normal'><b><span lang="" style='color:white'>2014-02-05</span></b></p>
+  </td>
+  <td width=478 valign=top style='width:358.15pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
+  background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
+  lang="" style='color:black'>Cited in/at</span></b><span lang=""
+  style='color:black'>: Blog post from DJ Bernstein mentions my PRNG paper, <a
+  href="http://blog.cr.yp.to/20140205-entropy.html">http://blog.cr.yp.to/20140205-entropy.html</a>
   </span></p>
   </td>
  </tr>
