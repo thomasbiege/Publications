@@ -732,7 +732,7 @@
   background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   lang="" style='color:black'>Cited in/at</span></b><span lang=""
-  style='color:black'>: Blog post from DJ Bernstein mentions my PRNG paper, <a
+  style='color:black'>: Blog post from DJ Bernstein mentions my PRNG paper from 2006, <a
   href="http://blog.cr.yp.to/20140205-entropy.html">http://blog.cr.yp.to/20140205-entropy.html</a>
   </span></p>
   </td>
