@@ -244,6 +244,20 @@
   <td width=113 valign=top style='width:84.8pt;border:solid white 1.0pt;
   border-top:none;background:#70AD47;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+  line-height:normal'><b><span lang="" style='color:white'>2003</span></b></p>
+  </td>
+  <td width=478 valign=top style='width:358.15pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
+  background:#C5E0B3;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
+  lang="" style='color:black'>Cited at/in:</span></b><span lang="" style='color:black'>:
+  Forensic tool to extract JPEGs from broken images</span></p>
+  </td>
+ </tr>
+  <tr>
+  <td width=113 valign=top style='width:84.8pt;border:solid white 1.0pt;
+  border-top:none;background:#70AD47;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
   line-height:normal'><b><span lang="" style='color:white'>2004</span></b></p>
   </td>
   <td width=478 valign=top style='width:358.15pt;border-top:none;border-left:
@@ -265,8 +279,8 @@
   background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt;height:26.7pt'>
   <p class=MsoNormal style='margin-bottom:8.0pt;line-height:107%'><b><span
   lang="" style='color:black'>Cited at/in</span></b><span lang=""
-  style='color:black'>: Maschinelles Lernen in hostbasierten Intrusion-Detection-Systemen,
-  <a href="https://www.sec.tu-bs.de/pubs/2004-diplom.pdf">https://www.sec.tu-bs.de/pubs/2004-diplom.pdf</a>
+  style='color:black'>: Book: Security Engineering with Patterns; M. Schuhmacher,
+  <a href="https://doi.org/10.1007/b11930">https://doi.org/10.1007/b11930</a>
   </span></p>
   </td>
  </tr>
