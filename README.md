@@ -51,7 +51,7 @@
   background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   lang="" style='color:black'>Tool</span></b><span lang="" style='color:black'>:
-  Proof-of-Concept UNIX backdoor / remote access trojan (RAT) with string obfuscation, portable user-space process hiding, support for ICMP tunneling, https://github.com/vanhauser-thc/THC-Archive/
+  Proof-of-Concept UNIX backdoor / remote access tool (RAT) with string obfuscation, portable user-space process hiding, support for ICMP tunneling, https://github.com/vanhauser-thc/THC-Archive/
   </span></p>
   </td>
  </tr>
