@@ -927,6 +927,39 @@
   </span></p>
   </td>
  </tr>
+  <tr>
+  <td width=113 valign=top style='width:84.8pt;border:solid white 1.0pt;
+  border-top:none;background:#70AD47;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+  line-height:normal'><b><span lang="" style='color:white'>2024 April</span></b></p>
+  </td>
+  <td width=478 valign=top style='width:358.15pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
+  background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
+  lang="" style='color:black'>Podcast</span></b><span lang=""
+  style='color:black'>: Im Fokus der Regulierung: IT-Sicherheit in hoch regulierten Branchen,<a
+  href="https://www.podcast.de/episode/626958100/im-fokus-der-regulierung-it-sicherheit-in-hoch-regulierten-branchen">Wolfshoehle podcast</a>
+  </span></p>
+  </td>
+ </tr>
+ </tr>
+  <tr>
+  <td width=113 valign=top style='width:84.8pt;border:solid white 1.0pt;
+  border-top:none;background:#70AD47;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+  line-height:normal'><b><span lang="" style='color:white'>2024 August</span></b></p>
+  </td>
+  <td width=478 valign=top style='width:358.15pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
+  background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
+  lang="" style='color:black'>Podcast</span></b><span lang=""
+  style='color:black'>: Cyber Crime - Phishing as a Service,<a
+  href="https://www.podcast.de/episode/640643660/cyber-crime-phishing-as-a-service">Wolfshoehle podcast</a>
+  </span></p>
+  </td>
+ </tr>
 </table>
 
 <p class=MsoNormal><span lang="">&nbsp;</span></p>
